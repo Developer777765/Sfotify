@@ -5,7 +5,7 @@ Note: This app is under development and some of the features aren't implemented 
 ##User authentication
 ![Screenshot_1700539035](https://github.com/Developer777765/Sfotify/assets/57831507/b4be8447-1f68-4c62-b7f5-13a7be4733f3)
 
-##Home page 1
+##Home page 1(under implementation)
 ![Screenshot_1700539060](https://github.com/Developer777765/Sfotify/assets/57831507/94141230-354f-46fc-93bd-4b5fdee09b16)
 
 ##Home page 2
@@ -21,3 +21,6 @@ Note: This app is under development and some of the features aren't implemented 
 ##Album page 2
 
 ![Screenshot_1700539412](https://github.com/Developer777765/Sfotify/assets/57831507/9bacd576-4630-4189-be44-9785ef597b79)
+
+##Artist page(under implementation)
+![Screenshot_1700539116](https://github.com/Developer777765/Sfotify/assets/57831507/aeee675b-d6c6-4b11-9a3b-a427143d5b04)
